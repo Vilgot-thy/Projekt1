@@ -31,9 +31,7 @@ console.log("Vill du spela igen?");
 var spela = prompt(">>")
 spela = spela.toLowerCase();
 
-    if(spela == "ja"){
-        continue;
-    }
+    if(spela == "ja"){}
     else{
         y = 1;
     }
