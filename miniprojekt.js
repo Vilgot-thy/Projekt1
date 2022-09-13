@@ -10,7 +10,7 @@ while(y!=1){
 var number = Math.floor(Math.random() * parseInt(fraga)) + 1;
 var x = 10
 do{
-    console.log("Gissa nummret!!");
+    console.log("Gissa nummret!");
     var input = prompt(">>")
 
     if(parseInt(input) == number){
